@@ -30,7 +30,7 @@ Tech Stack :
 
 ### Rough Design of the Architecture
 
-[Architecture Diagram](https://drive.google.com/file/d/1YRcOxBkmX6jNQkSh_14yA53dlAU1cjuK/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=1YRcOxBkmX6jNQkSh_14yA53dlAU1cjuK)
 
 #### DTO'S
 
